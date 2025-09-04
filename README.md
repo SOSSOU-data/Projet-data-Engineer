@@ -26,7 +26,7 @@ Le pipeline gère :
 * Les données clients (plusieurs fichiers CSV).
 * Les données produits (fichier CSV unique).
 
-## 📁 Structure du projet
+##📁 Structure du projet
 
 ```
 ecommerce-analytics/
